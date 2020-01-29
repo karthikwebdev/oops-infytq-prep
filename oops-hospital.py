@@ -14,4 +14,5 @@ hosp1.checkup()
 hospital.feeinc()
 hosp2 = hospital("kims","1-00")
 hosp2.checkup()
+hosp1.checkup()
         

@@ -1,0 +1,10 @@
+class : it is a collection of member variables or member methods
+eg : class student
+in python __init__(self): is a costructer ... this is called when object is created 
+variables are two types
+	intance variables , class variables
+types of functions on accessing ariables
+	accessers , mutators
+types of methods 
+	instance method, class methods,static methods 
+instance method can access any variables but it cant change value
