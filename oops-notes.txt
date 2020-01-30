@@ -8,3 +8,12 @@ types of functions on accessing ariables
 types of methods 
 	instance method, class methods,static methods 
 instance method can access any variables but it cant change value
+
+inheritance:
+	1)single
+	2)heirarical
+	3)multiple
+	4)multilevel
+	5)hybrid
+	
+	
