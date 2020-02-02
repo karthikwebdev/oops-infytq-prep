@@ -15,5 +15,4 @@ class son(mother,father):
     def __init__(self):
         self.acres = self.getm() + self.getf()
         print(self.acres)
-
 s = son()
