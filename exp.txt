@@ -1,0 +1,12 @@
+reversing string algorithm
+s = "hello"
+str = ""
+i = h
+str = h
+i = e
+str = e + h
+i = l
+str = l + eh
+str = l + leh
+str = o + lleh
+str = olleh
