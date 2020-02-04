@@ -1,0 +1,39 @@
+at first
+front = -1
+rear = -1
+if value added front = 0 , rear = 0
+if value added front = 0 , rear = 1
+if value added front = 0 , rear = 2
+if value deleted front = 0 , rear = 1
+
+
+A*B+C/(D/E*F)
+postfix
+
+
+
+A-B/C^D*E+F/G
+
+postfix : A B C D ^ / E * - F G / +
+
+
+7+5*3**2//(9-2**2)+6+4
+
+stack : 
+
+OP = 
+
+
+
+
+
+
+g f / e d c ^ * b / + a -
+
+a + b + C
+
+prefix : 
+
+stack : 
+
+infix are always same but postfix , prefix are multiple  
