@@ -16,7 +16,19 @@ class Linkedlist:
             self.last.add = nn
             self.last = nn    
     def delete(self):
-        pass
+        self.temp = self.head
+        if(self.temp == None):
+            print("empty linkedlist")
+        elif(self.head == self.last):
+            del self.head
+            self.head = None
+            self.last = None
+        else:
+            while self.temp.add.add:
+                self.temp = self.temp.add
+            self.temp.add = None
+            del self.last
+            self.last = self.temp
     def display(self):
         self.temp = self.head
         while self.temp:
@@ -29,6 +41,8 @@ while True:
     if(ch == 1):
         val = int(input("enter value to insert"))
         l1.insert(val)
+    elif(ch == 2):
+        l1.delete()
     elif(ch == 3):
         l1.display()
     else:
