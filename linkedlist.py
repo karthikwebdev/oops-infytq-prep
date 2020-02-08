@@ -75,6 +75,8 @@ class Linkedlist:
                     break
                 self.temp = self.temp.add
                 pos -= 1
+            if(not self.temp.add):
+                print('list is not sufficient')
             else:
                 self.temp1 = self.temp.add
                 self.temp.add = self.temp.add.add
