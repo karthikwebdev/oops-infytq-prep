@@ -1,0 +1,28 @@
+selection sort:
+    selection sort is something that takes max num and swap that with last number in first pass
+    next leaves the sorted , which is at last and then continue the same step with remaining
+
+    q1 . in how many steps sorting can happen ?
+    q2 . min steps without swap ?
+    q3 . which swaping technique has less passes?
+
+
+bubble sort:
+    it is a technique ,in first pass, frst element checks with next element and continues with next element untill end of list 
+
+    q1 . how many swaps in pass 1
+    q2 . gives a step and ask to tell which sorting is that 
+
+
+insertion sort:
+    first it takes first index and check with 0 index if not sorted then changes position
+    next it increases it's index and check with before indices and if sorted pass completed else insert in crct index
+    again repeat by increasing the index
+
+merge sort:
+
+    it follows divide and follow rules divide elements into single part and then merges back by sorting it by insertion
+
+quick sort:
+
+    it takes any pivot element and basicaly taken at first 
