@@ -1,0 +1,46 @@
+binary tree searching:
+
+    first we will take a root value 
+    next if we find a value that is less than root then that will be sent to left side
+    if greater than root then right side
+
+types of binary trees:
+
+    1) strictly mandatory tree : here a node must have 2 or 0 children if 1 child is there then it is not strictly mandatory
+    2) complete binary tree : 
+    3) full binary : 
+
+representation of binary search tree:
+
+    in order : left root right
+    pre order : root left right
+    post order : left right root
+    level order : according to levels
+
+
+inorder : 8 4 9 2 10 5 11 1 6 13 3 14 7
+preorder : 1 2 4 8 9 5 10 11 3 6 13 7 14
+post order : 8 9 4 10 11 
+
+we can draw a tree if we have post and in , pre and inorders
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
