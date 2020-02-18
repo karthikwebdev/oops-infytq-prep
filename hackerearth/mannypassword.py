@@ -1,7 +1,6 @@
 num = int(input())
-li = []
-for i in range(num):
-    li.append(input())
+li = [input() for i in range(num)]
+
 for i in li:
     if(i[::-1] in li):
        print(len(i),end=" ")
